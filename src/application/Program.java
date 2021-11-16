@@ -20,7 +20,7 @@ public class Program {
     
     double c = calc.circumference(radius);
     
-    double v = calc.circumference(radius);
+    double v = calc.volume(radius);
      
     System.out.printf("Circumference: %.2f%n", c);
     System.out.printf("Volume: %.2f%n", v);
